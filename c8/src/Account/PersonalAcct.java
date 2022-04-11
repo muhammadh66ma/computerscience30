@@ -4,7 +4,7 @@ import java.text.NumberFormat;
 public class PersonalAcct extends Account
 
 { 
-    //Assinging fee
+    //Assinging fee 
 	private final int W = 2;
 	
 	
