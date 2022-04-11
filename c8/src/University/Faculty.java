@@ -2,6 +2,9 @@ package University;
 public class Faculty extends UEmployee {
 	 private String departmentName;			
 
+	 
+	 
+	 //Creating String 
 public Faculty(String name, double salary, String departmentName) {
 		super(name, salary); 			
 					this.departmentName = departmentName;		}
@@ -18,8 +21,8 @@ public Faculty(String name, double salary, String departmentName) {
 				       }
 				       
 
-
-               public String toString()//return strings 
+                //returns string 
+               public String toString()
 		        {
 		            return("Name:"+super.getName()+"\nDepartmentName:"+ departmentName+ "\nSalary:"+super.getSalary());
 		        }
