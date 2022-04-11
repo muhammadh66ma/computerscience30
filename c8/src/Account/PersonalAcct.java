@@ -4,7 +4,7 @@ import java.text.NumberFormat;
 public class PersonalAcct extends Account
 
 { 
-
+    //Assinging fee
 	private final int W = 2;
 	
 	
@@ -14,8 +14,7 @@ public class PersonalAcct extends Account
 	}
 	
 
-
-	
+	//telling if balance is blow certain number charge fee	
 	public void withdraw(double x)
 	{
 		if(super.getBalance() >= x)
