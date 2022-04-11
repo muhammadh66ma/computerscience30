@@ -16,7 +16,7 @@ public class University {
         String sel=input.next();
         if(sel.equals("1")) {
         	
-        	
+        	//Assinging people their department and salary
         	Faculty new1 = new Faculty("Khan ", 2131, "Computers");
         	Faculty new2 = new Faculty("\nMonic ", 21333, "Math");
         	Faculty new3 = new Faculty("\nKeilo", 21312, "Science");
@@ -26,7 +26,8 @@ public class University {
     		System.out.println(new3);
     		
         }
-    		else if(sel.equals("2")) {
+    		//Assening staff their roles and salary 
+        else if(sel.equals("2")) {
     			
     			Staff s1 = new Staff("James ", 2131, "Princple");
     			Staff s2 = new Staff("Leo", 6999, "Teacher");
