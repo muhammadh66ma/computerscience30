@@ -3,15 +3,15 @@ package University;
  public class Staff extends UEmployee 
  { 	private String jobTitle; 
 	
-
+   //Creating string 
    public Staff(String name, double salary, String jobTitle) { 		
    super(name, salary); 		
-   this.jobTitle = jobTitle;	}
-	public String jobTitle() { 
+   this.jobTitle = jobTitle; 	}// Get job title
+	public String jobTitle() { //returns job title
 		
 	return jobTitle; 				}
 				
-		public void setjobTitle(String jobTitle) { 					
+		public void setjobTitle(String jobTitle) { 		//set job title			
 		this.jobTitle=  jobTitle; 
 					
 				  }
