@@ -14,7 +14,7 @@ public class BusinessAcct extends Account
 	}
 	
 	
-	//telling if balance is blow certain number charge fee
+	//telling if balance is blow certain number charge fee 
 	public void withdraw(double x)
 	{
 		if(super.getBalance() >= x)
