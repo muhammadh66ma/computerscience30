@@ -1,0 +1,16 @@
+ 1)
+ The difference is an IS-a relationship is inheritance. The classes which inherit are known as sub classes an example would be car which is a sub class inherited from vehicle
+ while Has-a relationship is composition.
+ 
+ 2)
+ It would be available to both due to as long as you don't override it 
+ 
+ 3)
+ An abstract method is a forces its immediate subclass to implement the function of all abstract methods. 
+ Where as overriding is optional and is not always a necessity for the subclasses. 
+ 
+ 4)
+  An abstract class allows you to create functionality that subclasses can implement or override. An interface only allows you to define functionality, not implement it
+  
+ 6)
+ a)
