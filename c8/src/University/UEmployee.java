@@ -21,7 +21,7 @@ public class UEmployee
   return salary;
  }
 
-// 
+    //Set name, Set salary
     public void setName(String name) {
     this.name=name;}
 
