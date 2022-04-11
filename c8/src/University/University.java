@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class University {
 
-
+    
 	public static void main(String args[]){
 		
 	
@@ -50,4 +50,34 @@ public class University {
 	}
 	
 	
+/*Screen Dump 
+ 1.Faculty member 2.Staff member :
+1
+Name:Khan 
+DepartmentName:Computers
+Salary:2131.0
+Name:
+Monic 
+DepartmentName:Math
+Salary:21333.0
+Name:
+Keilo
+DepartmentName:Science
+Salary:21312.0
 
+
+
+ 1.Faculty member 2.Staff member :
+2
+Name:James 
+jobTitle Princeple
+Salary:2131.0
+Name:Leo
+jobTitle Teacher
+Salary:6999.0
+Name:Makenzie
+jobTitle Janitor
+Salary:9598.0
+
+
+*/
