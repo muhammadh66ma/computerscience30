@@ -19,6 +19,7 @@ public class Customer {
 		zip = z;
 	}
 	
+	
 
 	/**
 	 * Returns a String that represents the Customer object.
