@@ -26,7 +26,7 @@ public class University {
     		System.out.println(new3);
     		
         }
-    		//Assening staff their roles and salary 
+    		//assigning staff their roles and salary 
         else if(sel.equals("2")) {
     			
     			Staff s1 = new Staff("James ", 2131, "Princple");
