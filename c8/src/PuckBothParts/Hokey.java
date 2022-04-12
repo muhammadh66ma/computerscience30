@@ -19,7 +19,7 @@ public class Hokey {
 			System.out.println("The pucks are not equal.");
 	
 			
-		}
+		}// calls string to say which is heavier and which are equal 
 		System.out.println(yPuck.toString());
 	  
       if (yPuck.comparedTo(sPuck) == 1) { 
@@ -34,4 +34,18 @@ public class Hokey {
 	
    }
 }
+
+/*Screen Dump 
+
+The pucks are not equal.
+Weight:	4.5
+Radius:	1.5
+Thickness:	1.0
+Volume:	7.0649999999999995
+Area:	7.0649999999999995
+sPuck is heavier than yPuck
+
+*/
+
+
 

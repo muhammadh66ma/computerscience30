@@ -16,7 +16,7 @@ public class Puck extends Disk{
 
 	public void setWeight(double weight) {
 		this.weight = weight;
-	}
+	}                                           //Telling string to return certain things
     public String toString() { return "Weight:\t" + weight + "\nRadius:\t" + super.getRadius() + "\nThickness:\t" + super.getThickness() + "\nVolume:\t" + super.volume() + "\nArea:\t" + super.area();
     
     }
@@ -38,7 +38,7 @@ public class Puck extends Disk{
     	}
     }
 
-public String getDivision(Object p) 
+public String getDivision(Object p) //  String for testing if puck meets standrds 
 {
 	Puck testPuck = (Puck)p; 
 	
@@ -56,7 +56,8 @@ public String getDivision(Object p)
 		return("the puck is a non-standard weight");
 	}
 }
-    public int comparedTo( Object p) {
+ //Comparing and testing
+public int comparedTo( Object p) {
     	
     	Puck testPuck = (Puck)p; 
     	
