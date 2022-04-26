@@ -1,8 +1,11 @@
+package fio;
+
+
 
 import java.io.*;
 import java.util.Scanner;
 
-public class MyFilePart2 {
+public class TheFileClassPart2 {
 
  public static void main(String[] args) {
       File textFile = new File("C:\\Users\\54242001\\Documents\\n1.txt");// reads the certain file 
