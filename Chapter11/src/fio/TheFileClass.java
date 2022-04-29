@@ -11,7 +11,6 @@ import java.util.Scanner;
 
 		 File f1;
 		 
-		 
 		 System.out.println("File Location");   //Asks user for file location
 		 String Rd; //String which takes in whatever the user types
 		 Scanner FL = new Scanner(System.in);//collects user input 
