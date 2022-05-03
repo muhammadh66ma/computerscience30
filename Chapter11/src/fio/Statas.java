@@ -69,8 +69,6 @@ public class Statas {
 
     }
 
-     
-
     catch (IOException e) {
 
       System.out.println("Problem reading file.");
