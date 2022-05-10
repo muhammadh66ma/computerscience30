@@ -19,7 +19,7 @@ public class Roster
 public static void main(String[] args)
 
     {
-
+    // Assigning variables
 	Scanner scanner = new Scanner(System.in);
 	String fileName = null;
 	int numStudents;
@@ -80,7 +80,7 @@ public static void main(String[] args)
 		 }
 		readStu.close();
 		
-	} catch (FileNotFoundException e) {
+	} catch (FileNotFoundException e) {                //Error messages and catch
 		System.out.println("File not found.");
 	} catch (IOException e) {
 		System.out.println("Problem with input/output.");

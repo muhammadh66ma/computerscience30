@@ -9,7 +9,7 @@ public class TheFileClassPart2 {
 
  public static void main(String[] args) {
       File textFile = new File("C:\\Users\\54242001\\Documents\\n1.txt");// reads the certain file 
-         if (textFile.exists()) {                         // if statment for if file exists  
+         if (textFile.exists()) {                         // if statment for if file exists  then displays it
              System.out.println("File exists.");
        } else {
          try {

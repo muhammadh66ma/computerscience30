@@ -18,7 +18,7 @@ import java.util.Scanner;
 		
          f1 = new File(Rd);
 
-  if (f1.exists()) {
+  if (f1.exists()) {// if statment for if file exists or not 
  
 	  System.out.println("File already exists.");
   } else {
