@@ -1,0 +1,21 @@
+1. Data on non-volatile storage media which is stored in named locations on the media called files.
+   By reading and writing files, programs can save information between program runs.
+
+2.import java.io.*;
+
+3. You need a \\ to find a file 
+
+4.
+a)The "try" statement identifies a block of statements within which an exception might be thrown.
+ The catch statement must be used in conjunction with the try statement, and it specifies a set of statements that can handle a specific sort of exception.
+
+b)catch (IOException e) {
+
+      System.out.println("Problem reading file.");
+      System.err.println("IOException: " + e.getMessage());
+
+
+5.a) err Stream
+  b) The Screen inside the console 
+
+
