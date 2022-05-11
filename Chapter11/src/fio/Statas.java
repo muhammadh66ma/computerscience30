@@ -80,4 +80,15 @@ public class Statas {
   }
 }
 
+/*Screen Dump 
+ 
+ 
+Mr Abdulla 100
+James 59
+Suraj 23.0
+Lowest score = 23.0
+Highest score = 100.0
+Average = 60.666666666666664
 
+
+*/
