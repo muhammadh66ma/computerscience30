@@ -107,5 +107,14 @@ public static void main(String[] args)
 }
 
 
+/*Screen Dump 
+ 
+Enter file name:  Suraj
+Enter number of students: 1
 
+Enter first name of student 1: mo
+Enter last name of student 1: dean
+Data has been written to the file
+mo dean
 
+*/
