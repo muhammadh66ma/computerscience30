@@ -60,3 +60,20 @@ public class TheFileClassPart2 {
 
            }
               }
+
+
+
+/*Screen Dump 
+
+
+File exists.
+Type d to delete the file. Type any other character to keep the file: 
+d
+File deleted successfully
+
+
+File exists.
+Type d to delete the file. Type any other character to keep the file: 
+k
+File kept because you did not type D
+*/

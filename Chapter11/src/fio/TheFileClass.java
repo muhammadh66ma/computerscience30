@@ -28,3 +28,21 @@ import java.util.Scanner;
                                             }
                           }
 
+ /*Screen Dump 
+
+File Location
+C:\Users\54242001\Documents\\test1.txt
+File already exists.
+
+
+
+
+
+
+File Location
+C:\Users\54242001\Documents\\test2.txt
+File does not exist.
+
+
+
+ */
