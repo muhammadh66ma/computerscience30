@@ -1,8 +1,17 @@
 package phidgets;
 import com.phidget22.*;
 
-public class Lesson3Part1 {
+/*
+Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Purpose: The LED turns off when the button is pressed and turns on when the button is released.
+Author: Muhammad Hafeez, 
+School: CHHS
+Course: Computer Science 30 
 
+*/
+
+
+public class Lesson3Part1 {
 
     //Handle Exceptions 
     public static void main(String[] args) throws Exception{

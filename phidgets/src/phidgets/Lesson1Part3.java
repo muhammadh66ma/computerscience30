@@ -1,5 +1,17 @@
 package phidgets;
 import com.phidget22.*;
+
+/*
+Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Purpose: The green LED flashes.
+Author: Muhammad Hafeez, 
+School: CHHS
+Course: Computer Science 30 
+
+*/
+
+
+
 public class Lesson1Part3 {
 
 	    //Handle Exceptions 
