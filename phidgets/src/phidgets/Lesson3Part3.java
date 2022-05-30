@@ -54,3 +54,12 @@ public class Lesson3Part3 {
         }
     }
 }
+
+
+
+/*Screen Dump 
+ 
+BUTTON IS PRESSED:1
+BUTTON IS PRESSED:2
+BUTTON IS PRESSED:3
+*/

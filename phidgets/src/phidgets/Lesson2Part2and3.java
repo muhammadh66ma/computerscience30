@@ -47,3 +47,12 @@ public class Lesson2Part2and3 {
       }
   }
 }
+
+
+/*Screen Dump 
+ *
+Button State:TRUE 
+Button State:FALSE 
+Button State:TRUE 
+Button State:FALSE 
+*/

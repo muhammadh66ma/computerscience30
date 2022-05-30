@@ -30,9 +30,21 @@ public class Lesson2Part1 {
         //Use your Phidgets 
         while(true){
             System.out.println("Button State: " + greenButton.getState());
-            Thread.sleep(5000);
+            Thread.sleep(1000);
             
         }
     }
 }
   
+
+
+/*Screen Dump 
+ *
+Button State: false
+Button State: false
+Button State: false
+Button State: true
+Button State: true
+
+*/
+

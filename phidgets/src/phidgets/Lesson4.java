@@ -1,8 +1,17 @@
 package phidgets;
 import com.phidget22.*;
 
+/*
+Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Purpose: Convert temperature data from degrees Celsius to degrees Fahrenheit
+Author: Muhammad Hafeez, 
+School: CHHS
+Course: Computer Science 30 
 
-public class Lesson4Part1 {
+*/
+
+
+public class Lesson4 {
 
    
     
@@ -22,3 +31,12 @@ public class Lesson4Part1 {
     }
 }
   
+
+
+/*Screen Dump 
+
+Temperature: 71.582 °F
+Temperature: 71.564 °F
+Temperature: 71.564 °F
+
+*/

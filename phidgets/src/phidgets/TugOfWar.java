@@ -3,7 +3,8 @@ import com.phidget22.*;
 
 /*
 Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
-Purpose: The green LED flashes.
+Purpose: 
+Each player is assigned a button (red or green) and has to press the button 10 times before the other player can. When there is a winner it should flash both LEDS once then the winners LED 5 times.
 Author: Muhammad Hafeez, 
 School: CHHS
 Course: Computer Science 30 
@@ -130,3 +131,23 @@ public class TugOfWar {
     
     } 
 }
+
+
+
+/*Screen Dump 
+
+Green button is pressed 	 = 1
+Red button is pressed 	 = 1
+Green button is pressed 	 = 2
+Red button is pressed 	 = 2
+Green button is pressed 	 = 3
+Green button is pressed 	 = 4
+Green button is pressed 	 = 5
+Green button is pressed 	 = 6
+Green button is pressed 	 = 7
+Red button is pressed 	 = 3
+Green button is pressed 	 = 8
+Green button is pressed 	 = 9
+Green button is pressed 	 = 10
+Green is the winner
+*/
