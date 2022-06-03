@@ -2,7 +2,7 @@ package phidgets;
 import com.phidget22.*;
 
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:Lesson3Part2          Last Date of this Revision: May 27, 2022
 Purpose: The green button controls the red LED and the red button controls the green LED.
 Author: Muhammad Hafeez, 
 School: CHHS

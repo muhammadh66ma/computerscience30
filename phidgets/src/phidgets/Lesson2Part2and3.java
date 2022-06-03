@@ -2,7 +2,7 @@ package phidgets;
 import com.phidget22.*;
 
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:Lesson2Part2 and 3          Last Date of this Revision: May 27, 2022
 Purpose:  to print the state of your green button and only print when the button state changes.
 Author: Muhammad Hafeez, 
 School: CHHS

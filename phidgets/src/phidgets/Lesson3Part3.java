@@ -2,7 +2,7 @@ package phidgets;
 import com.phidget22.*;
 
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:Lesson3Part3          Last Date of this Revision: May 27, 2022
 Purpose: The total number of button presses
 Author: Muhammad Hafeez, 
 School: CHHS

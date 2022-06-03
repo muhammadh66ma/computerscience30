@@ -2,7 +2,7 @@ package phidgets;
 import com.phidget22.*;
 
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:Lesson2Part1          Last Date of this Revision: May 27, 2022
 Purpose:  The loop repeats every 10ms, 1000ms, 5000ms​
 Author: Muhammad Hafeez, 
 School: CHHS

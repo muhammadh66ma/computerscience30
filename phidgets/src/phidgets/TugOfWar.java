@@ -2,7 +2,7 @@ package phidgets;
 import com.phidget22.*;
 
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:TugofWar        Last Date of this Revision: May 27, 2022
 Purpose: 
 Each player is assigned a button (red or green) and has to press the button 10 times before the other player can. When there is a winner it should flash both LEDS once then the winners LED 5 times.
 Author: Muhammad Hafeez, 

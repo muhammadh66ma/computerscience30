@@ -1,7 +1,7 @@
 package phidgets;
 import com.phidget22.*;
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:Lesson5Part2          Last Date of this Revision: May 27, 2022
 Purpose: Only print the temperature if it is above 21°C (70°F). If the temperature is below 21°C, print "Room is too cold".
 Author: Muhammad Hafeez, 
 School: CHHS

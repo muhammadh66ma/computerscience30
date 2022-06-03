@@ -1,7 +1,7 @@
 package phidgets;
 import com.phidget22.*;
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:Lesson5Part1          Last Date of this Revision: May 27, 2022
 Purpose: Only prints the humidity if it is above 30%. If it is bellow 30% print “Humidity is low”.
 Author: Muhammad Hafeez, 
 School: CHHS

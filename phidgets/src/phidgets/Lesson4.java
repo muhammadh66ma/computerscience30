@@ -2,7 +2,7 @@ package phidgets;
 import com.phidget22.*;
 
 /*
-Program:Lesson1Part1          Last Date of this Revision: May 27, 2022
+Program:Lesson4          Last Date of this Revision: May 27, 2022
 Purpose: Convert temperature data from degrees Celsius to degrees Fahrenheit
 Author: Muhammad Hafeez, 
 School: CHHS
